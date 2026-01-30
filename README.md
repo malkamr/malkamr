@@ -1,34 +1,44 @@
 # 👋 Hi, I'm Malk Amr
 
-💙 I'm a passionate learner diving into the world of **Flutter**  
-📱 I love building mobile apps and exploring how beautiful UI meets clean logic  
-🚀 Always excited to learn, practice, and improve step by step
+💙 I'm a passionate learner exploring the world of **Flutter**  
+📱 I enjoy building mobile apps and learning how ideas turn into real products  
+🚀 Curious, motivated, and always open to learning new tech fields
 
 ---
 
 ## 🌱 What I'm Currently Learning
 - Flutter & Dart
-- Mobile UI/UX basics
-- Building real-world Flutter projects
+- Mobile App Development
+
+---
+
+## 🧭 Fields I've Explored
+- 📊 Data Analysis
+- 🌐 Web Development
+- 🎨 UI/UX fundamentals
+- 📱 Flutter Development (current focus)
+
+Exploring different fields helped me understand my interests better and shape my learning path.
 
 ---
 
 ## 🛠️ Tech Stack
 - Flutter
 - Dart
-- Git & GitHub
-
+- HTML / CSS (Basics)
+- 
 ---
 
 ## 📌 Goals
 - Build complete Flutter applications
-- Improve problem-solving and coding skills
-- Grow as a mobile app developer
+- Improve coding and problem-solving skills
+- Grow step by step as a mobile app developer
 
 ---
 
 ## 🔗 Connect with Me
 - 💼 LinkedIn: [www.linkedin.com/in/malk-amr](LINKEDIN)
+- 📧 Email: mlkamr910@gmail.com
 
 ---
 
