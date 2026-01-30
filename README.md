@@ -26,7 +26,7 @@ Exploring different fields helped me understand my interests better and shape my
 - Flutter
 - Dart
 - HTML / CSS (Basics)
-- 
+
 ---
 
 ## 📌 Goals
