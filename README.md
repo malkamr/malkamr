@@ -37,7 +37,7 @@ Exploring different fields helped me understand my interests better and shape my
 ---
 
 ## 🔗 Connect with Me
-- 💼 LinkedIn: [www.linkedin.com/in/malk-amr](LINKEDIN)
+- 💼 LinkedIn: [Malk Amr](www.linkedin.com/in/malk-amr)
 - 📧 Email: mlkamr910@gmail.com
 
 ---
