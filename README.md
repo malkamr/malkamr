@@ -1,41 +1,38 @@
 # 👋 Hi, I'm Malk Amr
 
-💙 I'm a passionate learner exploring the world of **Flutter** & **Automation** 
-📱 I enjoy building mobile apps and learning how ideas turn into real products  
-🚀 Curious, motivated, and always open to learning new tech fields
+💙 Passionate about technology and continuous learning  
+🚀 Exploring different fields and building my skills step by step  
 
 ---
 
 ## 🌱 What I'm Currently Learning
-- AI
-- Flutter & Dart
-- Mobile App Development
+- Automation
+- Problem Solving
+- Software Development fundamentals
 
 ---
 
 ## 🧭 Fields I've Explored
 - 📊 Data Analysis
 - 🌐 Web Development
-- 🎨 UI/UX fundamentals
--    Python & Streamlite
-- 📱 Flutter Development (current focus)
+- 🎨 UI Design
+- ⚙️ Automation
 
-Exploring different fields helped me understand my interests better and shape my learning path.
+Exploring multiple fields helped me discover my interests and shape my career path.
 
 ---
 
 ## 🛠️ Tech Stack
-- Streamlite
-- Flutter
-- Dart
-- HTML / CSS (Basics)
+- C++
+- HTML / CSS
+- Python / streamlit
 
 ---
 
 ## 📌 Goals
-- Build complete Flutter applications
-- Improve coding and problem-solving skills
-- Grow step by step as a mobile app developer
+- Build real-world projects
+- Improve problem-solving skills
+- Grow as a developer in different tech areas
 
 ---
 
