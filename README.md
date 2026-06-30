@@ -15,8 +15,10 @@
 ## 🧭 Fields I've Explored
 - 📊 Data Analysis
 - 🌐 Web Development
+- 📱Mobile App. Development
 - 🎨 UI Design
 - ⚙️ Automation
+
 
 Exploring multiple fields helped me discover my interests and shape my career path.
 
@@ -26,6 +28,7 @@ Exploring multiple fields helped me discover my interests and shape my career pa
 - C++
 - HTML / CSS
 - Python / streamlit
+- Flutter / Dart
 
 ---
 
