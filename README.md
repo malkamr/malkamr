@@ -6,6 +6,7 @@
 ---
 
 ## 🌱 What I'm Currently Learning
+- Machine Learning
 - Automation
 - Problem Solving
 - Software Development fundamentals
